@@ -1,4 +1,4 @@
-1-Porque los lenguajes de programacion pueden ser compliados o interpretados. Para que una máquina pueda ejecutar un lenguaje de programacion, su sistema operativo debe tener compiladores o interpretes, según corresponda. Deben ser compatibles..
+1-Porque los lenguajes de programacion pueden ser compliados o interpretados. Para que una máquina pueda ejecutar un lenguaje de programacion, su sistema operativo debe tener compiladores o interpretes, según corresponda. Deben ser compatibles.
 
 2-Es una máquina virtual de sistema.
 
